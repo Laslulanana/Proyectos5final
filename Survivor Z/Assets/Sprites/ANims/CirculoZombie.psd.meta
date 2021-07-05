@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 1ffd3b03463b2fa43a127201f8f075eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8722283332590470891
+    second: CirculoZombie_0
+  - first:
+      213: 6416372443350512643
+    second: CirculoZombie_1
+  - first:
+      213: -7051743867358876587
+    second: CirculoZombie_2
+  - first:
+      213: -757653111935436646
+    second: CirculoZombie_3
+  - first:
+      213: -2293679238618344575
+    second: CirculoZombie_4
+  - first:
+      213: 6177914347203147654
+    second: CirculoZombie_5
+  - first:
+      213: -491844002908875971
+    second: CirculoZombie_6
+  - first:
+      213: 1876316518645542686
+    second: CirculoZombie_7
+  - first:
+      213: -7396102338547026237
+    second: CirculoZombie_8
+  - first:
+      213: -4096610955234372047
+    second: CirculoZombie_9
+  - first:
+      213: -6976090307733840631
+    second: CirculoZombie_10
+  - first:
+      213: -464722140758480310
+    second: CirculoZombie_11
+  - first:
+      213: -7744268296457942084
+    second: CirculoZombie_12
+  - first:
+      213: -3903942479391151310
+    second: CirculoZombie_13
+  - first:
+      213: -5456367897934833315
+    second: CirculoZombie_14
+  - first:
+      213: 4433351493125352784
+    second: CirculoZombie_15
+  - first:
+      213: -7591804681828590356
+    second: CirculoZombie_16
+  - first:
+      213: -818624605627553198
+    second: CirculoZombie_17
+  - first:
+      213: -5364415232114028595
+    second: CirculoZombie_18
+  - first:
+      213: 7777040074237468984
+    second: CirculoZombie_19
+  - first:
+      213: -7310939185311197055
+    second: CirculoZombie_20
+  - first:
+      213: -5115910284339777627
+    second: CirculoZombie_21
+  - first:
+      213: 3070530732118632067
+    second: CirculoZombie_22
+  - first:
+      213: 3746394876518236403
+    second: CirculoZombie_23
+  - first:
+      213: 358632479889083746
+    second: CirculoZombie_24
+  - first:
+      213: 9101253845073427785
+    second: CirculoZombie_25
+  - first:
+      213: 4283919393663357581
+    second: CirculoZombie_26
+  - first:
+      213: 5309952942311541281
+    second: CirculoZombie_27
+  - first:
+      213: 3643354524622788958
+    second: CirculoZombie_28
+  - first:
+      213: -5932569756562153862
+    second: CirculoZombie_29
+  - first:
+      213: 5617090047227020526
+    second: CirculoZombie_30
+  - first:
+      213: -3438842048474513857
+    second: CirculoZombie_31
+  - first:
+      213: 6014726299589775039
+    second: CirculoZombie_32
+  - first:
+      213: -1661945290168777098
+    second: CirculoZombie_33
+  - first:
+      213: -7982549987691967117
+    second: CirculoZombie_34
+  - first:
+      213: 6864027421615045438
+    second: CirculoZombie_35
+  - first:
+      213: 260654128448838702
+    second: CirculoZombie_36
+  - first:
+      213: -3575153953420218134
+    second: CirculoZombie_37
+  - first:
+      213: -8171328361295434421
+    second: CirculoZombie_38
+  - first:
+      213: -7177549531005440710
+    second: CirculoZombie_39
+  - first:
+      213: -7591289154926284122
+    second: CirculoZombie_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CirculoZombie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5341
+        width: 117
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51972aa858934f680800000000000000
+      internalID: -8722283332590470891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5229
+        width: 133
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3043388edb88b0950800000000000000
+      internalID: 6416372443350512643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5115
+        width: 133
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce80b705c232e90800000000000000
+      internalID: -7051743867358876587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4998
+        width: 149
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a987e1842864c75f0800000000000000
+      internalID: -757653111935436646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4879
+        width: 165
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183177982e63b20e0800000000000000
+      internalID: -2293679238618344575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4754
+        width: 165
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68735d5ed5c5cb550800000000000000
+      internalID: 6177914347203147654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4618
+        width: 194
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33d5b93c7e9c29f0800000000000000
+      internalID: -491844002908875971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4483
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fa01cbee30a0a10800000000000000
+      internalID: 1876316518645542686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4350
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6f77cfb14cb5990800000000000000
+      internalID: -7396102338547026237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4209
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136184e7a0ae527c0800000000000000
+      internalID: -4096610955234372047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4068
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d9a7673d2ff2f90800000000000000
+      internalID: -6976090307733840631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3930
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ae4d8dca9fc89f0800000000000000
+      internalID: -464722140758480310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3792
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb0e48e305d68490800000000000000
+      internalID: -7744268296457942084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3656
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b255cbff862d9c0800000000000000
+      internalID: -3903942479391151310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3518
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59dfbf4e461744b0800000000000000
+      internalID: -5456367897934833315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3383
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d2f20b1bd668d30800000000000000
+      internalID: 4433351493125352784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3245
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec957f6ddd74a690800000000000000
+      internalID: -7591804681828590356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3112
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aec292249a3a4f0800000000000000
+      internalID: -818624605627553198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2976
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf062ea4c4cd85b0800000000000000
+      internalID: -5364415232114028595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2835
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831e6e43eb89deb60800000000000000
+      internalID: 7777040074237468984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2697
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188da05cb835a8a90800000000000000
+      internalID: -7310939185311197055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2559
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afe82f93b2a009b0800000000000000
+      internalID: -5115910284339777627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2421
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386e9d7be67bc9a20800000000000000
+      internalID: 3070530732118632067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2283
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0863b7a4eddf330800000000000000
+      internalID: 3746394876518236403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2142
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dc4b0275e1af400800000000000000
+      internalID: 358632479889083746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2004
+        width: 197
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d724ec6262e4e70800000000000000
+      internalID: 9101253845073427785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1863
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8216b9cdf9837b30800000000000000
+      internalID: 4283919393663357581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1722
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a0584511eb0b940800000000000000
+      internalID: 5309952942311541281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5914f603abcf8230800000000000000
+      internalID: 3643354524622788958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e13ee0d374bada0800000000000000
+      internalID: -5932569756562153862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1307
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4495823a9e3fd40800000000000000
+      internalID: 5617090047227020526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1167
+        width: 197
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3efffd6067c640d0800000000000000
+      internalID: -3438842048474513857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1028
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe8f3cb3b9987350800000000000000
+      internalID: 6014726299589775039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 890
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6764b5f50959fe8e0800000000000000
+      internalID: -1661945290168777098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d42dd5419483190800000000000000
+      internalID: -7982549987691967117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 611
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bb7e1a29ce14f50800000000000000
+      internalID: 6864027421615045438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c9e6f7c870e9300800000000000000
+      internalID: 260654128448838702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 197
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0fd0ddb60826ec0800000000000000
+      internalID: -3575153953420218134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d29e1262c999e80800000000000000
+      internalID: -8171328361295434421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d26a6dab8346c90800000000000000
+      internalID: -7177549531005440710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CirculoZombie_40
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 117
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2f755ebb256a690800000000000000
+      internalID: -7591289154926284122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

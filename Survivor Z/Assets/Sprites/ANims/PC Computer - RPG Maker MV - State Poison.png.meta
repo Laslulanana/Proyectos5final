@@ -1,0 +1,1091 @@
+fileFormatVersion: 2
+guid: 2e96e6f291a46a643b86e37333b21db2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 721641722330407033
+    second: PC Computer - RPG Maker MV - State Poison_0
+  - first:
+      213: 5226413466070029476
+    second: PC Computer - RPG Maker MV - State Poison_1
+  - first:
+      213: 5099619889488682159
+    second: PC Computer - RPG Maker MV - State Poison_2
+  - first:
+      213: 2811269210219513343
+    second: PC Computer - RPG Maker MV - State Poison_3
+  - first:
+      213: -6931782638475480622
+    second: PC Computer - RPG Maker MV - State Poison_4
+  - first:
+      213: -7048233319940395238
+    second: PC Computer - RPG Maker MV - State Poison_5
+  - first:
+      213: 7655763097912044011
+    second: PC Computer - RPG Maker MV - State Poison_6
+  - first:
+      213: -1431772998752725044
+    second: PC Computer - RPG Maker MV - State Poison_7
+  - first:
+      213: -4546769627982762400
+    second: PC Computer - RPG Maker MV - State Poison_8
+  - first:
+      213: 5302130792516215081
+    second: PC Computer - RPG Maker MV - State Poison_9
+  - first:
+      213: 5502318148813136885
+    second: PC Computer - RPG Maker MV - State Poison_10
+  - first:
+      213: -3813334007147784208
+    second: PC Computer - RPG Maker MV - State Poison_11
+  - first:
+      213: -7899038255158255871
+    second: PC Computer - RPG Maker MV - State Poison_12
+  - first:
+      213: 1520916743945890289
+    second: PC Computer - RPG Maker MV - State Poison_13
+  - first:
+      213: -8871147161824317933
+    second: PC Computer - RPG Maker MV - State Poison_14
+  - first:
+      213: 5191837142779388645
+    second: PC Computer - RPG Maker MV - State Poison_15
+  - first:
+      213: -2830825134902198995
+    second: PC Computer - RPG Maker MV - State Poison_16
+  - first:
+      213: 1263651969791933662
+    second: PC Computer - RPG Maker MV - State Poison_17
+  - first:
+      213: -5584882540199833066
+    second: PC Computer - RPG Maker MV - State Poison_18
+  - first:
+      213: -7342729626918868904
+    second: PC Computer - RPG Maker MV - State Poison_19
+  - first:
+      213: 6676731990371656907
+    second: PC Computer - RPG Maker MV - State Poison_20
+  - first:
+      213: -3624997682643843457
+    second: PC Computer - RPG Maker MV - State Poison_21
+  - first:
+      213: -7902335909238828055
+    second: PC Computer - RPG Maker MV - State Poison_22
+  - first:
+      213: 7379884678158323348
+    second: PC Computer - RPG Maker MV - State Poison_23
+  - first:
+      213: -7201428205711421760
+    second: PC Computer - RPG Maker MV - State Poison_24
+  - first:
+      213: -6336277753263241003
+    second: PC Computer - RPG Maker MV - State Poison_25
+  - first:
+      213: -7525644498744429035
+    second: PC Computer - RPG Maker MV - State Poison_26
+  - first:
+      213: -332438426414616208
+    second: PC Computer - RPG Maker MV - State Poison_27
+  - first:
+      213: 7974451583508232674
+    second: PC Computer - RPG Maker MV - State Poison_28
+  - first:
+      213: -5785368225883354705
+    second: PC Computer - RPG Maker MV - State Poison_29
+  - first:
+      213: -96060113611313877
+    second: PC Computer - RPG Maker MV - State Poison_30
+  - first:
+      213: -3293573170833665699
+    second: PC Computer - RPG Maker MV - State Poison_31
+  - first:
+      213: -8238794626778105687
+    second: PC Computer - RPG Maker MV - State Poison_32
+  - first:
+      213: -6392099461441395839
+    second: PC Computer - RPG Maker MV - State Poison_33
+  - first:
+      213: -6580106585195611478
+    second: PC Computer - RPG Maker MV - State Poison_34
+  - first:
+      213: 3658351765138868991
+    second: PC Computer - RPG Maker MV - State Poison_35
+  - first:
+      213: -6518557432527140396
+    second: PC Computer - RPG Maker MV - State Poison_36
+  - first:
+      213: 8708706859793410987
+    second: PC Computer - RPG Maker MV - State Poison_37
+  - first:
+      213: -6285510244668811844
+    second: PC Computer - RPG Maker MV - State Poison_38
+  - first:
+      213: 433033357584924421
+    second: PC Computer - RPG Maker MV - State Poison_39
+  - first:
+      213: 939365192846804325
+    second: PC Computer - RPG Maker MV - State Poison_40
+  - first:
+      213: 7443215409768390173
+    second: PC Computer - RPG Maker MV - State Poison_41
+  - first:
+      213: 740317507612819405
+    second: PC Computer - RPG Maker MV - State Poison_42
+  - first:
+      213: 6330593270975321419
+    second: PC Computer - RPG Maker MV - State Poison_43
+  - first:
+      213: -8171271348469258588
+    second: PC Computer - RPG Maker MV - State Poison_44
+  - first:
+      213: -81313855182944522
+    second: PC Computer - RPG Maker MV - State Poison_45
+  - first:
+      213: 3513559663358237150
+    second: PC Computer - RPG Maker MV - State Poison_46
+  - first:
+      213: -5278984327613412631
+    second: PC Computer - RPG Maker MV - State Poison_47
+  - first:
+      213: -3845686090014171555
+    second: PC Computer - RPG Maker MV - State Poison_48
+  - first:
+      213: 6027871724388156661
+    second: PC Computer - RPG Maker MV - State Poison_49
+  - first:
+      213: -152764686882544620
+    second: PC Computer - RPG Maker MV - State Poison_50
+  - first:
+      213: 233980407533776668
+    second: PC Computer - RPG Maker MV - State Poison_51
+  - first:
+      213: -158794888162434753
+    second: PC Computer - RPG Maker MV - State Poison_52
+  - first:
+      213: -5162282169303543502
+    second: PC Computer - RPG Maker MV - State Poison_53
+  - first:
+      213: -7137759862966364931
+    second: PC Computer - RPG Maker MV - State Poison_54
+  - first:
+      213: 3164574499502435807
+    second: PC Computer - RPG Maker MV - State Poison_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 425
+        width: 52
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4495587, y: 0.51873606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a41c6e4b53f78840800000000000000
+      internalID: 5226413466070029476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 410
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac5d72454d75c640800000000000000
+      internalID: 5099619889488682159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 395
+        width: 121
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff58023b372a30720800000000000000
+      internalID: 2811269210219513343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 386
+        width: 151
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1f27d9a6c5dcf90800000000000000
+      internalID: -6931782638475480622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_5
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 386
+        width: 162
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f61ee7325af2e90800000000000000
+      internalID: -7048233319940395238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_6
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 359
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9679fb9fbbe3a60800000000000000
+      internalID: 7655763097912044011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_7
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 352
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc719522b02512ce0800000000000000
+      internalID: -1431772998752725044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_8
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 365
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e6d88fc11a6e0c0800000000000000
+      internalID: -4546769627982762400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 197
+        width: 162
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921e6982dd3f49940800000000000000
+      internalID: 5302130792516215081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 203
+        width: 157
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3213d24392c5c40800000000000000
+      internalID: 5502318148813136885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 209
+        width: 147
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f71a06ace0541bc0800000000000000
+      internalID: -3813334007147784208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_12
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 215
+        width: 138
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f121ece8af06290800000000000000
+      internalID: -7899038255158255871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_14
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 333
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e2f3d58aa53e480800000000000000
+      internalID: -8871147161824317933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_15
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 319
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e26b03bf5c1d0840800000000000000
+      internalID: 5191837142779388645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_17
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 71
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcbb2b75c4698110800000000000000
+      internalID: 1263651969791933662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_20
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 176
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4e692de5488ac50800000000000000
+      internalID: 6676731990371656907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 157
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8713a3336f0c90800000000000000
+      internalID: -7201428205711421760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_25
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 161
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8c88654f40118a0800000000000000
+      internalID: -6336277753263241003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_27
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071fdd33301f26bf0800000000000000
+      internalID: -332438426414616208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_33
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 123
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183e1d71863ba47a0800000000000000
+      internalID: -6392099461441395839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_34
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 121
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf4357ce3cea4a0800000000000000
+      internalID: -6580106585195611478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_35
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 135
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa86803c8315c230800000000000000
+      internalID: 3658351765138868991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_36
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 137
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9cc3a4d8e6985a0800000000000000
+      internalID: -6518557432527140396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_44
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 78
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6a9277000d99e80800000000000000
+      internalID: -8171271348469258588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 53
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6c082ca7d1fdef0800000000000000
+      internalID: -81313855182944522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 62
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9db9fe5eba2c030800000000000000
+      internalID: 3513559663358237150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_47
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea8fb929b74db6b0800000000000000
+      internalID: -5278984327613412631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 59
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e5b0f50e061aac0800000000000000
+      internalID: -3845686090014171555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_49
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 53
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f407c3756d47a350800000000000000
+      internalID: 6027871724388156661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 37
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4146420a35541edf0800000000000000
+      internalID: -152764686882544620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fa373e0f34f3300800000000000000
+      internalID: 233980407533776668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_52
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 35
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f312eeaf3e8dbcdf0800000000000000
+      internalID: -158794888162434753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 40
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231545cc7b3eb58b0800000000000000
+      internalID: -5162282169303543502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 40
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df459dbd83591fc90800000000000000
+      internalID: -7137759862966364931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_55
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 42
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd2a1c9db3daeb20800000000000000
+      internalID: 3164574499502435807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_13
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 217
+        width: 117
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9a6df68b16b1510800000000000000
+      internalID: 1520916743945890289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 84
+        width: 134
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d38e4c983e6b8d0800000000000000
+      internalID: -2830825134902198995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_18
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 83
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6129b1f6be28e72b0800000000000000
+      internalID: -5584882540199833066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - State Poison_0
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 210
+        width: 160
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ea92b259c30a00800000000000000
+      internalID: 721641722330407033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
