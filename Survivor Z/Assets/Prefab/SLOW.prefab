@@ -11,8 +11,6 @@ GameObject:
   - component: {fileID: 3938950328062175746}
   - component: {fileID: 7515669727132773278}
   - component: {fileID: -8699318193918250915}
-  - component: {fileID: 5000911019208333898}
-  - component: {fileID: 8291579208300996156}
   m_Layer: 0
   m_Name: SLOW
   m_TagString: Untagged
@@ -104,31 +102,3 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &5000911019208333898
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8193636767655763940}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3c5d98e640a1b1e4395b54bca39df9cd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!58 &8291579208300996156
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8193636767655763940}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.0131147355, y: -0.0032788068}
-  serializedVersion: 2
-  m_Radius: 0.13
